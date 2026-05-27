@@ -1,9 +1,11 @@
 1. dashboard CD
-Diseñé un dashboard interactivo en Power BI enfocado 100% en medir la eficiencia operativa, los cuellos de botella y el cumplimiento de los tiempos de entrega de un Centro de Distribución 
+##
+realice un dashboard interactivo en Power BI enfocado 100% en medir la eficiencia operativa, los cuellos de botella y el cumplimiento de los tiempos de entrega de un centro de distribución, procesé un registro transaccional masivo de la cadena de suministro con 93 MB de peso en texto plano y cientos de miles de filas. 
 
 <img width="479" height="339" alt="image" src="https://github.com/user-attachments/assets/bc9d9f0b-dcfb-4486-8f2d-8366e7d9894b" />
 
 SLA / cantidad de pedidos tarde por categoria
+
 
 ##
 2. De un respaldo SQL Server en la nube a un Dashboard en Power BI
